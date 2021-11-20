@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #22549c;
+  /* display: flex; */
+}
+.books {
+  display: flex;
+  justify-content: space-evenly;
+  padding-left: 100px;
+  margin-top: 48px;
+}
+.shelf {
+  width: 100%;
+}
+
+.books2 {
+  display: flex;
+  margin-left: 150px;
+}
+.book7 {
+  margin-left: 140px;
+}
+
+/* attention 
+vici rom realurad es dzalian arasworad maqvs gaketebuli da ase gaketeba ar sheidzleba magram dizainis awyoba moitxovet so who cares 
+*/
